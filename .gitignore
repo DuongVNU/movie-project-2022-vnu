@@ -1,0 +1,11 @@
+node_modules
+
+#env configs
+envs
+
+#compressed code
+node_modules
+yarn.lock
+yarn-error.log
+#bash scripts
+*.bat
